@@ -1,4 +1,4 @@
-i# make changes to config file using Puppet
+# make changes to config file using Puppet
 
 include stdlib
 
